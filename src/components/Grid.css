@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body {
+  font-family: 'Lato';
+}
+.table {
+  border-collapse: collapse;
+  text-transform: capitalize;
+  max-width: 40rem;
+  margin: 40px auto 20px;
+}
+.table th,
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 10px;
+}
+.table th {
+  background-color: #d6faff;
+}
+.table tr:nth-child(odd) {
+  background-color: #f3f3f3;
+}
+.form {
+  padding: 20px;
+}

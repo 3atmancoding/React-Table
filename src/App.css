@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.search-box {
+  width: 40%;
+  border: 3px solid #00b4cc;
+  padding: 5px;
+  height: 20px;
+  border-radius: 5px;
+  outline: none;
+}
+.sort {
+  width: 120px;
+  margin: 0px 20px;
+  height: 35px;
+  border: 0px;
+  background-color: #d6faff;
+  cursor: pointer;
+}
